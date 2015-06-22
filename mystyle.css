@@ -1,0 +1,39 @@
+body {
+  background-color:#666699;
+
+}
+
+h1 {
+    color: silver;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+
+    table, td, th {
+        border: 1px solid white;
+    }
+
+    table {
+        width: 100%;
+    }
+
+    th {
+        height: 50px;
+    }
+
+p { text-align:center;
+   color:white;
+
+}
+
+table{
+    color:#6296CC;
+
+
+}
+form{ text-align: center;
+
+
+}
